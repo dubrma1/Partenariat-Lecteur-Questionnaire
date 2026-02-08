@@ -1,2 +1,5 @@
 poppler-utils
-libgl1
+libgl1-mesa-glx
+libcairo2
+libpango-1.0-0
+libpangocairo-1.0-0
